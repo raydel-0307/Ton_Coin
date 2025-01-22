@@ -1,0 +1,16 @@
+.active {
+    /* O cualquier otro estilo que desees */
+    background-color: #1c1f24;
+    /* O cualquier otro estilo que desees */
+    color: #50AF95;
+    /* Transision */
+    transform: scale(1.1);
+    transition-duration: all 1.3s;
+}
+
+.inactive {
+    /* O cualquier otro estilo que desees */
+    color: #44474c;
+    transform: scale(1);
+    transition-duration: all 1.3s;
+}
